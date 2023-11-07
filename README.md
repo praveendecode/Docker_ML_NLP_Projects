@@ -3,7 +3,7 @@
 ![image](https://github.com/praveendecode/Docker_ML_NLP_Projects/assets/95226524/85c2fece-16ac-4fce-8e34-07232245d098)
 
 
-## TextWiz                       : [View Project](https://github.com/praveendecode/Textwiz)
+## - TextWiz                       : [View Project](https://github.com/praveendecode/Textwiz)
 
 ## - Industrial Copper Modelling : [View Project](https://github.com/praveendecode/Industrial_Copper_Modeling)
 
