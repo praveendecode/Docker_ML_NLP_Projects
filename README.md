@@ -4,9 +4,9 @@
 
 ## - Business Card Data Extract  : [View Project](https://github.com/praveendecode/BizCardX)
 
-## - Airways Booking Analysis    : [View Projects](https://github.com/praveendecode/Airways-booking-analysis)
+## - Airways Booking Analysis    : [View Project](https://github.com/praveendecode/Airways-booking-analysis)
 
-## - Retail Gocery Modelling     : [View Projects](https://github.com/praveendecode/Retail-grocery-industry)
+## - Retail Gocery Modelling     : [View Project](https://github.com/praveendecode/Retail-grocery-industry)
  
 ## - Term Load Prediction        : [View Project](https://github.com/praveendecode/Term_Load_Predictor)
  
