@@ -1,16 +1,16 @@
 # Machine Learning Projects (ML) and Natural Language Processing Projects
 
-## - Industrial Copper Modelling : [View Projects](https://github.com/praveendecode/Industrial_Copper_Modeling)
+## - Industrial Copper Modelling : [View Project](https://github.com/praveendecode/Industrial_Copper_Modeling)
 
-## - Business Card Data Extract  : [View Projects](https://github.com/praveendecode/BizCardX)
+## - Business Card Data Extract  : [View Project](https://github.com/praveendecode/BizCardX)
  
-## - Term Load Prediction        : [View Projects](https://github.com/praveendecode/Term_Load_Predictor)
+## - Term Load Prediction        : [View Project](https://github.com/praveendecode/Term_Load_Predictor)
  
-## - Spotify Song Popularity     : [View Projects](https://github.com/praveendecode/Spotify-Popularity-Predictor)
+## - Spotify Song Popularity     : [View Project](https://github.com/praveendecode/Spotify-Popularity-Predictor)
  
-## - Cardio Sense AI             : [View Projects](https://github.com/praveendecode/CardioSense_AI)
+## - Cardio Sense AI             : [View Project](https://github.com/praveendecode/CardioSense_AI)
  
-## - Sugar Sense AI              : [View Projects](https://github.com/praveendecode/Sugar-Sense-AI)
+## - Sugar Sense AI              : [View Project](https://github.com/praveendecode/Sugar-Sense-AI)
  
 ## - Mobile App Dating           : [View Project](https://github.com/praveendecode/Mobile-dating-app)
  
