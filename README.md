@@ -1,6 +1,8 @@
 # Machine Learning Projects (ML) and Natural Language Processing Projects
 
 ## - Industrial Copper Modelling : [View Projects](https://github.com/praveendecode/Industrial_Copper_Modeling)
+
+## - Business Card Data Extract  : [View Projects](https://github.com/praveendecode/BizCardX)
  
 ## - Term Load Prediction        : [View Projects](https://github.com/praveendecode/Term_Load_Predictor)
  
