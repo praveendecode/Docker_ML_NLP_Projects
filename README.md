@@ -3,6 +3,10 @@
 ## - Industrial Copper Modelling : [View Project](https://github.com/praveendecode/Industrial_Copper_Modeling)
 
 ## - Business Card Data Extract  : [View Project](https://github.com/praveendecode/BizCardX)
+
+## - Airways Booking Analysis    : [View Projects](https://github.com/praveendecode/Airways-booking-analysis)
+
+## - Retail Gocery Modelling     : [View Projects](https://github.com/praveendecode/Retail-grocery-industry)
  
 ## - Term Load Prediction        : [View Project](https://github.com/praveendecode/Term_Load_Predictor)
  
@@ -29,6 +33,8 @@
 ## - Multilingual translator     : [View project](https://github.com/praveendecode/multilingual-translator_AI)
  
 ## - Emotion Analyser AI         : [View Project](https://github.com/praveendecode/emotion-analyzer-AI)
+
+
 
 # Docker Projects
 
