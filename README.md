@@ -1,5 +1,7 @@
 # Machine Learning Projects (ML) and Natural Language Processing Projects
 
+## TextWiz                       : [View Project](https://github.com/praveendecode/Textwiz)
+
 ## - Industrial Copper Modelling : [View Project](https://github.com/praveendecode/Industrial_Copper_Modeling)
 
 ## - Business Card Data Extract  : [View Project](https://github.com/praveendecode/BizCardX)
