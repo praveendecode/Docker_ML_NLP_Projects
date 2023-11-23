@@ -1,6 +1,7 @@
 # Machine Learning Projects (ML) and Natural Language Processing Projects
 
-![image](https://github.com/praveendecode/Docker_ML_NLP_Projects/assets/95226524/85c2fece-16ac-4fce-8e34-07232245d098)
+![image](![image](https://github.com/praveendecode/Docker_ML_NLP_Projects/assets/95226524/bb9c0e31-ce13-45f0-899b-b9c24141e8c6)
+
 
 
 ## - TextWiz                       : [View Project](https://github.com/praveendecode/Textwiz)
