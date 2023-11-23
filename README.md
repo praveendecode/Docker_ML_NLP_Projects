@@ -1,6 +1,6 @@
 # Machine Learning Projects (ML) and Natural Language Processing Projects
 
-![image](![image](https://github.com/praveendecode/Docker_ML_NLP_Projects/assets/95226524/bb9c0e31-ce13-45f0-899b-b9c24141e8c6)
+![image](![image](https://github.com/praveendecode/Docker_ML_NLP_Projects/assets/95226524/bb9c0e31-ce13-45f0-899b-b9c24141e8c6))
 
 
 
