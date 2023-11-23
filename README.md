@@ -1,4 +1,4 @@
-# Machine Learning Projects (ML) and Natural Language Processing Projects
+# Machine Learning and Natural Language Processing Projects
 
 ![image](https://github.com/praveendecode/Docker_ML_NLP_Projects/assets/95226524/f04da991-a735-4114-aa3c-ec60798b7fe4)
 
