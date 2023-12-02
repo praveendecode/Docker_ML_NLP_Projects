@@ -1,18 +1,13 @@
-# Machine Learning and Natural Language Processing Projects
+# Machine Learning Projects
 
 ![image](https://github.com/praveendecode/Docker_ML_NLP_Projects/assets/95226524/f04da991-a735-4114-aa3c-ec60798b7fe4)
-
 
 
 ##  Retail Revenue Forecasting     : [View Project](https://github.com/praveendecode/Retail-Revenue-Forecasting)
 
 ## Airways Booking Analysis        : [View Project](https://github.com/praveendecode/Airways-booking-analysis)
 
-## - TextWiz                       : [View Project](https://github.com/praveendecode/Textwiz)
-
 ## - Industrial Copper Modelling : [View Project](https://github.com/praveendecode/Industrial_Copper_Modeling)
-
-## - Business Card Data Extract  : [View Project](https://github.com/praveendecode/BizCardX)
 
 ## - Airways Booking Analysis    : [View Project](https://github.com/praveendecode/Airways-booking-analysis)
 
@@ -29,6 +24,16 @@
 ## - Mobile App Dating           : [View Project](https://github.com/praveendecode/Mobile-dating-app)
  
 ## - Wine Quality Check          : [View Project](https://github.com/praveendecode/WineQualityPrediction)
+
+
+# Natural Language Processing Projects
+
+![image](https://github.com/praveendecode/Textwiz/assets/95226524/916abc3d-f61c-4a3c-a04c-a6ab7c3db7ef)
+
+
+## - Business Card Data Extract  : [View Project](https://github.com/praveendecode/BizCardX)
+
+## - TextWiz                       : [View Project](https://github.com/praveendecode/Textwiz)
  
 ## - Query Genie                 : [View Project](https://github.com/praveendecode/QueryGenie)
  
