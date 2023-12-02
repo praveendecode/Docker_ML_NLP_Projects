@@ -68,29 +68,4 @@
 
 
 
-# Data Analysis Projects
-
-  ![image](https://github.com/praveendecode/Data-Analysis-Projects/assets/95226524/76eb2807-608e-47d5-8d6e-09f8b9cc6403)
-
-  
-
-##  - Phonepe Data Exploration And visualization  : [View Project](https://github.com/praveendecode/phonepe_pulse)
-
-##  - AirBnB  data analysis                       : [View project](https://github.com/praveendecode/Airbnb_Analysis)
-
-##  - Tableau Dashboard  For AirBnB               : [Visit Dashboard](https://public.tableau.com/app/profile/praveen.x.decode/viz/airbnb_16981379902390/Dashboard1)
-
-
-
-
-
-# ETL Projects
-
- ![image](https://github.com/praveendecode/ETL-Projects/assets/95226524/0638cecf-355b-45c9-aa9e-4931893d8916)
-
-
-## - Iss Data Harvesting And Warehousing     : [View Project](https://github.com/praveendecode/iss-data-warehouse-mongodb-sql-project)
-
-## - Youtube Data Harvesting And Warehousing : [view Project](https://github.com/praveendecode/YouTube-Data-Harvesting-Warehousing)
-
 
